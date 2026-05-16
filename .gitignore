@@ -1,5 +1,6 @@
 # Gradle files
 .gradle/
+.gradle_tmp/git a
 build/
 
 # Local configuration file (sdk path, etc)
@@ -32,3 +33,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Curos plans :)
+*.plan.md
